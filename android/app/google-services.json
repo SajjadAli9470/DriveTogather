@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "996634025427",
+    "project_id": "drivetogether-cd392",
+    "storage_bucket": "drivetogether-cd392.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:996634025427:android:e98bb139550af2ba21e326",
+        "android_client_info": {
+          "package_name": "com.example.drivetogether"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3hTA5JSfS98faDPZApU6gHkFKu1bqOCQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:996634025427:android:7488cfb9d031f16921e326",
+        "android_client_info": {
+          "package_name": "com.example.userapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3hTA5JSfS98faDPZApU6gHkFKu1bqOCQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
